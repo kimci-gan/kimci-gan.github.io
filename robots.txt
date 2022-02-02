@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kimci-gan.github.io/sitemap.xml
